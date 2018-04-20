@@ -16,5 +16,5 @@ Pin5 -> yellow
 
 ![alt text](imgs/nodemcu.jpg)
 
-![alt text](imgs/servo MG995.jpg)
+![alt text](imgs/servoMG995.jpg)
 
