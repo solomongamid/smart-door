@@ -8,7 +8,7 @@ This is a simple project made with the nodeMCU,the aim is to control a door lock
 nodeMCU -> servo MG995  
 
 vin -> red  
-GND -> brown
+GND -> brown  
 Pin5 -> yellow
 
 
